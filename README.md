@@ -1,4 +1,5 @@
-arduino-to-excel
+Arduino serial to Excel
 ================
 
-Python script for reading arduino serial output and parsing it into xlsx spreadsheet.
+This is Python script for reading and parsing arduino serial output to xlsx spreadsheet. For help see examples.
+
